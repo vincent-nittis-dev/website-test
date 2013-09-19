@@ -1,9 +1,11 @@
-Ristretto
-Cosi
-Roma
-capriccio
-livanto
-volluto
+[Intenso]
 kazaar
 dharkan
+Ristretto
 arpeggio
+Roma
+[Espresso]
+livanto
+capriccio
+volluto
+Cosi
